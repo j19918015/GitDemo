@@ -5,6 +5,7 @@ public class Test {
 		int d = a + c;
 		int e = c + d;
 		int f = e + d;
+		int g = f + f;
 		return c;
 	}
 }
