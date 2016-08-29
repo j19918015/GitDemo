@@ -8,4 +8,8 @@ public class Test {
 		int g = e + c;
 		return c;
 	}
+	public void stay(){
+		int x = 15;
+		int y = x*x;
+	}
 }
