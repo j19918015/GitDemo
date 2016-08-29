@@ -6,6 +6,7 @@ public class Test {
 		int e = c + d;
 		int f = e + d;
 		int g =5 +12345;
-		return c;
+		int x = g + f;
+		return x;
 	}
 }
