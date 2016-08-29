@@ -8,4 +8,9 @@ public class Test {
 		int g = e + c;
 		return c;
 	}
+	
+	public String plusAandB(String a,String b){
+		String c = a + b;
+		return c;
+	}
 }
