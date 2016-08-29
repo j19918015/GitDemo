@@ -5,8 +5,9 @@ public class Test {
 		int d = a + c;
 		int e = c + d +5;
 		int f = e + d;
-		int g = e + c;
-		return c;
+		int g =5 +12345;
+		int x = g + f;
+		return x;
 	}
 	
 	public String plusAandB(String a,String b){
