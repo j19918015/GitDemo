@@ -9,4 +9,9 @@ public class Test {
 		int x = g + f;
 		return x;
 	}
+	
+	public String plusAandB(String a,String b){
+		String c = a + b;
+		return c;
+	}
 }
