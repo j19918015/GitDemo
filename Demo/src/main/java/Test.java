@@ -4,6 +4,7 @@ public class Test {
 		int c = a + b;
 		int d = a + c;
 		int e = c + d;
+		int f = e + d;
 		return c;
 	}
 }
