@@ -14,6 +14,10 @@ public class Test {
 		String c = a + b;
 		return c;
 	}
+	public void stay(){
+		int x = 15;
+		int y = x*x;
+	}
 	public static void main(String[] args){
 		Test test = new Test();
 		System.out.println(test.plusAandB(80, 7));
