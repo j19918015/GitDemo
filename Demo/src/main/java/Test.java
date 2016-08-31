@@ -17,5 +17,6 @@ public class Test {
 	public static void main(String[] args){
 		Test test = new Test();
 		System.out.println(test.plusAandB(80, 7));
+		System.out.println("Test for Git");
 	}
 }
