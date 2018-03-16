@@ -1,0 +1,1 @@
+.replaceAll("[^\\p{N}\\p{L}]", "").replace("(\n|\r)", "")
